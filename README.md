@@ -19,8 +19,11 @@ idle, talk, blink, happy, angry, sad, surprise
 *Emote + câmera
 *Layout lateral estilo PNGTuber
 *Overlay direto no rosto
+
 ======================================
-Controles
+
+Controles:
+
 Tecla |	Função
 1	| Modo emote transparente
 2	| Emote + câmera
@@ -28,8 +31,10 @@ Tecla |	Função
 4	| Debug facial
 5	| Overlay no rosto
 ESC	Sair
+
 ======================================
-Estrutura esperada
+
+Estrutura esperada:
 emotes/
 ├── idle.png
 ├── talk.png
