@@ -35,7 +35,9 @@ ESC	Sair
 ======================================
 
 Estrutura esperada:
-emotes/
+
+...\emotes\
+
 ├── idle.png
 ├── talk.png
 ├── blink.png
