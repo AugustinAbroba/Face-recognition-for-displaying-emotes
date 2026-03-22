@@ -38,12 +38,12 @@ Estrutura esperada:
 
 ...\emotes\
 
-├── idle.png
-├── talk.png
-├── blink.png
-├── sad.png
-├── angry.png
-├── happy.png
-└── surprise.png
+├── idle.png 
+├── talk.png 
+├── blink.png 
+├── sad.png 
+├── angry.png 
+├── happy.png 
+└── surprise.png 
 
 [Projeto feito utilizando IA]
