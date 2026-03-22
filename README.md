@@ -25,12 +25,18 @@ idle, talk, blink, happy, angry, sad, surprise
 Controles:
 
 Tecla |	Função
+
 1	| Modo emote transparente
+
 2	| Emote + câmera
+
 3	| Layout PNGTuber
+
 4	| Debug facial
+
 5	| Overlay no rosto
-ESC	Sair
+
+ESC	| Sair
 
 ======================================
 
@@ -39,11 +45,18 @@ Estrutura esperada:
 ...\emotes\
 
 ├── idle.png 
+
 ├── talk.png 
+
 ├── blink.png 
+
 ├── sad.png 
+
 ├── angry.png 
+
 ├── happy.png 
+
 └── surprise.png 
+
 
 [Projeto feito utilizando IA]
